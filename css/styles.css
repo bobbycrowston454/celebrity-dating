@@ -1,6 +1,23 @@
 body {
   background-color: #229d9e
 }
+
+h1 {
+  color: #3444bb
+}
+
+p {
+  font-size: 3em;
+  font-weight: bold;
+}
+
+img {
+  max-width: 500px;
+  max-height: 500px;
+  height: auto;
+  width: auto;
+}
+
 .ron {
   display: none;
 }
